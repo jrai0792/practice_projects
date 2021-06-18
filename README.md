@@ -9,7 +9,7 @@
 [Live Demo Link](https://jolly-kepler-97cf58.netlify.app/)
 
 ## Screenshots
-![screenshot](../assets/screenshot.png)
+![screenshot](./assets/screenshot.png)
 
 ## Built With
 
